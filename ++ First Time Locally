@@ -1,0 +1,11 @@
+- go to dektop
+- creat a folder e.g olu-sample
+- open that folder in VSCODE ( drag onto vscode icon )
+- open terminal command ( terminal )
+- git init ( ininialize git )
+
+++ First Time Rmote
+
+- vistit github.com
+- creat new repository ( git it a name )
+- follow option 2 ( ...or push an existing repository from the command line )
